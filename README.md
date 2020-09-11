@@ -1,7 +1,7 @@
 ### Hi there 👋 look at me :eyes:
-- 🔭 I’m currently working on [SUPERMONKEY FITNESS](www.supermonkey.com.cn)
+- 🔭 I’m currently working on [SUPERMONKEY FITNESS](https://www.supermonkey.com.cn)
 - 🌱 I’m currently learning Java? BigData!
-- 📫 How to reach me: [tauntongo.com](www.tauntongo.com)
+- 📫 How to reach me: [tauntongo.com](https://www.tauntongo.com)
 
 <!--
 **tauntongo/tauntongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
