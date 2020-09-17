@@ -1,6 +1,6 @@
 ### Hi there 👋 look at me :eyes:
 - 🔭 I’m currently working on [SUPERMONKEY FITNESS](https://www.supermonkey.com.cn)
-- 🌱 I’m currently learning Java? BigData!
+- 🌱 I’m currently learning somme interesting things...
 - 📫 How to reach me: [tauntongo.com](https://www.tauntongo.com)
 
 <!--
