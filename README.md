@@ -1,8 +1,8 @@
 <a href="https://github.com/tauntongo">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tauntongo&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Taunton Tang" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tauntongo&show_icons=true&include_all_commits=true" alt="Taunton Tang" />
 </a>
 <a href="https://github.com/tauntongo">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tauntongo&layout=compact&theme=material-palenight&hide=html,javascript,css" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tauntongo&layout=compact&hide=html,javascript,css" />
 </a>
 
 <br />
